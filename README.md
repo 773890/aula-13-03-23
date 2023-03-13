@@ -2,8 +2,8 @@
 
 - Dados pessoais :
 
-Data de nascimento : 23/01/2004
+Data de nascimento : 23/01/2004.
 
-Nome completo : João Antonio Baroni 
+Nome completo : João Antonio Baroni.
 
-Contato
+Contato : joaoantoniobaroni@gmail.com;  14996233811.
