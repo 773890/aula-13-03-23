@@ -1,8 +1,5 @@
 # Joao Baroni 
 
-
-
-
 - Dados pessoais :
 
 Data de nascimento : 23/01/2004.
@@ -13,8 +10,6 @@ Contato : joaoantoniobaroni@gmail.com;  14996233811.
 
 ---
 
-
-- Experiencia
 - Experiencia :
 
 Aluno Unimar;
