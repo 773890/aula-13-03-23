@@ -15,3 +15,5 @@ Contatos:
 ## Experiencia :
 
 - Aluno Unimar
+- Tecnico em Eletrônica SENAI
+- Ensino Médio Sesi
